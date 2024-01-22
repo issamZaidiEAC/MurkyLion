@@ -12,6 +12,23 @@ html, body
     width: 100%;
 }
 
-h1 {
+h1, p {
     font-family: "Press Start 2P";
 }
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #181D27;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    border-radius: 10px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #FFD046;
+    border-radius: 10px;
+  }

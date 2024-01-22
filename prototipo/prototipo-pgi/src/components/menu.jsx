@@ -1,7 +1,4 @@
-import arrow from '../assets/img/jugar.png'
-import NavBar from './navBar'
-
-export default function Header() {
+xport default function Header() {
 
     return( 
         <>
