@@ -1,6 +1,7 @@
+<span style="background-color:'#00000' color: '#ffffff'">
 # :facepunch: Hi there!!
 
- My <span style="background:'red' color: 'white'"> name </span> is Issam Zaidi, Murky Lion as brand name.<br>
+ My name is Issam Zaidi, Murky Lion as brand name.<br>
  I'm a draftsman and illustrator who made the mistake of stepping into web development.<br>
  
 :birthday: 22/10/1993 <br>
@@ -14,3 +15,5 @@
  
  ### :lion: Contact me!:
  :email: clubandgun@gmail.com
+
+ </span>
